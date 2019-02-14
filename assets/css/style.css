@@ -35,8 +35,8 @@ img {
     
 }
 .diamonds {
-    display: flex;
     justify-content: space-around; 
+    display: flex;
     align-items: center;
     clear: both;
 }

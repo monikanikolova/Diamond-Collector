@@ -1,6 +1,6 @@
 //Set global variables
 var randomNumber = 0;
-previous = 0;
+var previous = 0;
 var win = 0;
 var loss = 0;
 

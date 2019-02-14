@@ -1,0 +1,65 @@
+body {
+    background-image: url(../images/crystal-background.jpg);
+    background-repeat: repeat;
+}
+
+h1,
+#instructions {
+    margin: 5px;
+    background-color: #ac72e2;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    border: 5px white solid;
+}
+#instructions {
+    font-size: 20px;
+}
+#random-number,
+.score,
+.total-score {
+    background-color: #924980;
+    border: 5px white solid;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    height: 150px;
+    font-size: 35px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 25px;
+}
+img {
+    width: 160px;
+    height: 160px;
+    
+}
+.diamonds {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    clear: both;
+}
+.diamond {
+    background-image: url(../images/crystal.png);
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+
+.score {
+    float: right;
+    width: 550px;
+    margin: 0 auto;
+}
+.number {
+    float: left;
+    width: 550px;
+    margin: 0 auto;
+}
+#win {
+    margin: 15px;
+}
+#loss{
+    margin: 15px;
+}

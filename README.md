@@ -17,6 +17,6 @@ View Demo here: https://monikanikolova.github.io/Diamond-Collector/
 To run the application locally, first clone this repository with the following command.
 ```
 git clone https://github.com/monikanikolova/Diamond-Collector.git
-
+```
 
 Good luck!

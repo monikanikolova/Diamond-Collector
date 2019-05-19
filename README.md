@@ -3,7 +3,8 @@
 To play the game click on one of the diomonds. Each diamond generates random number, as you keep clicking the numbers are being added to each other. To win the game, you must match with the random number generated at the top. 
 
 
-#Demo
+### Demo
+
 View Demo here: https://monikanikolova.github.io/Diamond-Collector/
 
 
